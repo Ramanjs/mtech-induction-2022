@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mtech-induction-2022/static/css/main.7e67e5bb.css",
+    "main.js": "/mtech-induction-2022/static/js/main.727c5c6c.js",
+    "index.html": "/mtech-induction-2022/index.html",
+    "main.7e67e5bb.css.map": "/mtech-induction-2022/static/css/main.7e67e5bb.css.map",
+    "main.727c5c6c.js.map": "/mtech-induction-2022/static/js/main.727c5c6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e67e5bb.css",
+    "static/js/main.727c5c6c.js"
+  ]
+}
