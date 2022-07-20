@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.864dc6b5.css",
-    "main.js": "/static/js/main.601d7aba.js",
-    "index.html": "/index.html",
-    "main.864dc6b5.css.map": "/static/css/main.864dc6b5.css.map",
-    "main.601d7aba.js.map": "/static/js/main.601d7aba.js.map"
+    "main.css": "/mtech-induction-2022/static/css/main.864dc6b5.css",
+    "main.js": "/mtech-induction-2022/static/js/main.371224b6.js",
+    "index.html": "/mtech-induction-2022/index.html",
+    "main.864dc6b5.css.map": "/mtech-induction-2022/static/css/main.864dc6b5.css.map",
+    "main.371224b6.js.map": "/mtech-induction-2022/static/js/main.371224b6.js.map"
   },
   "entrypoints": [
     "static/css/main.864dc6b5.css",
-    "static/js/main.601d7aba.js"
+    "static/js/main.371224b6.js"
   ]
 }
