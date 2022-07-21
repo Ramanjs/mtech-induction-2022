@@ -1,29 +1,16 @@
 import Fade from 'react-reveal/Fade';
+import TeamSection from './TeamSection';
+import Professors from './Professors';
+import Staff from './Staff';
+import Students from './Students';
 
 function Team() {
   return (
-    <div className="team">
-      <h2 className="text-light team-heading">Team</h2>
-      <div className="team-members">
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-        <div className="team-box"></div>
-      </div>
+    <div className="team" id="team-anchor">
+      <h2 className="text-light team-heading">Organising Team</h2>
+      <TeamSection className="professors" heading="Professors" members={Professors}/>
+      <TeamSection className="staff" heading="Staff" members={Staff}/>
+      <TeamSection className="students" heading="Students" members={Students}/>
     </div>
   )
 }

@@ -3,7 +3,7 @@ import Slide from 'react-reveal/Slide';
 
 function About() {
   return (
-    <div className="about">
+    <div className="about" id="about-anchor">
       <Slide left>
         <div className="about-heading">
           <h3 className="text-dark about-h3">Welcome to</h3>

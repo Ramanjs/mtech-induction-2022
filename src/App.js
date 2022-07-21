@@ -10,7 +10,6 @@ function App() {
     <div className="App">
       <Home />
       <About />
-      <Speakers />
       <Schedule />
       <Team />
       <Footer />
