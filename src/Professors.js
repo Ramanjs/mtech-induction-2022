@@ -1,18 +1,18 @@
 const Professors = [
   "Sujay Deb",
-  "Rajiv Ratn Shah",
-  "Raghava Muthuraju",
-  "Kaushik Kalyanraman",
-  "Sanat K Biswas",
-  "Smriti Singh",
-  "Vivek Bohara",
-  "Sneha Choubey",
-  "Paro Mishra",
+  "Kaushik Kalyanaraman",
   "Sonia Baloni Rai",
-  "Jainendra Shukla",
-  "Ashish Kumar Pandey",
+  "Sneha Choubey",
+  "Rajiv Ratn Shah",
+  "Sayak Bhattacharya",
+  "Sanat K Biswas",
+  "Richa Gupta",
+  "Raghava Muthuraju",
+  "Mrinmoy Chakraborty",
   "Gaurav Ahuja",
-  "Monika Arora"
+  "Monika Arora",
+  "Vinayak Abrol",
+  "Ranjitha Prasad",
 ];
 
 export default Professors;

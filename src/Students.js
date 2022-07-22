@@ -10,6 +10,7 @@ const Students = [
   "Shivam Agrawal",
   "Shubham Rao",
   "Aditya Girdhar",
+  "Jayan Pahuja",
 ];
 
 export default Students;

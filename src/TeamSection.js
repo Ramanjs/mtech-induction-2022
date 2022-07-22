@@ -6,7 +6,7 @@ function TeamSection(props) {
       <p className="text-dark team-section-heading">{props.heading}</p>
       <div className="team-members">
         {props.members.map(member => (
-          <Member url={'./photos/' + member.split(' ').join('-').toLowerCase() + '.jpg'} name={member}/>
+          <Member url={member.split(' ').join('-').toLowerCase() + '.jpg'} name={member}/>
         ))}
       </div>
     </div>
